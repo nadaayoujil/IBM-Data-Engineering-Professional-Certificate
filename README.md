@@ -25,8 +25,3 @@ This Professional Certificate contains 13 courses, as follows:
 |  11  | [Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer) | ✅ | [link](https://www.coursera.org/account/accomplishments/certificate/KQYEJCNW52VJ) |
 |  12  | [Data Engineering and Machine Learning using Spark](https://www.coursera.org/learn/machine-learning-with-apache-spark?specialization=ibm-data-engineer) | ✅ | [link](https://www.coursera.org/account/accomplishments/certificate/HMTF2VDQV2LJ) |
 |  13  | [Data Engineering Capstone Project](https://www.coursera.org/learn/data-enginering-capstone-project?specialization=ibm-data-engineer) | ❌ | [link]() |
-
-
-## Certification
-
-In Progess ...
