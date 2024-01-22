@@ -12,7 +12,7 @@ For more details about the professional certificate here: <a href=https://www.co
 
 This Professional Certificate contains 13 courses, as follows:
 
-| No. | Course                                                               |Status| Certifications |
+| No. | Course                                                               |Status|                                                                       Certifications |
 |:------:|----------------------------------------------------------------------------|:--:|:-------:|
 | 01     | [Introduction to Data Engineering]|[link](https://www.coursera.org/learn/introduction-to-data-engineering?specialization=ibm-data-engineer)|✅|[link](https://www.coursera.org/account/accomplishments/certificate/MR6FKX9YULJU)|
 | 02     | [Python for Data Science, AI & Development]|[link](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-engineer)|✅|[link](https://www.coursera.org/account/accomplishments/certificate/HUUXK6S867MF)|
