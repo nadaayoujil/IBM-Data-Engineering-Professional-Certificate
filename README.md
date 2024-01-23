@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://purepng.com/public/uploads/large/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png" alt="IBM Logo" width="200">
 </p>
-<h1 align="center">Data Engineering Professional Certificate</h1>
+<h1 align="center">IBM Data Engineering Professional Certificate</h1>
 
 
 ## About The Course
