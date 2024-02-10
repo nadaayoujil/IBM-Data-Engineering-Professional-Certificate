@@ -34,6 +34,6 @@ This Professional Certificate contains 13 courses, as follows:
 - [IBM Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/VM25W8B2SZ3B)
 
 <p align="center">
-  <img src="IBM Data Engineering - Nada Ayoujil - Coursera VM25W8B2SZ3B.jpg" alt="IBM Data Engineering Professional Certificate - Nada Ayoujil" style="display: block; margin: auto;">
+  <img src="../IBM Data Engineering - Nada Ayoujil - Coursera VM25W8B2SZ3B.jpg" alt="IBM Data Engineering Professional Certificate - Nada Ayoujil" style="display: block; margin: auto;">
 </p>
 
